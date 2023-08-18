@@ -7,14 +7,20 @@ Knitting is very cool and we like pushing the boundaries of it to make cool thin
 ## Work
 
 *Illusion Knitting (WIP)*
-[link]( "PDF") | [link](assets/illusionvideo.mp4 "Video")
+
+[PDF]() | [Video](assets/illusionvideo.mp4)
+
 
 ```=html
 <img src="assets/illusionteaser.JPG" alt="Teaser image for illusion paper showing a Mona Lisa single illusion and Stanford bunny/Utah teapot double illusion"/>
 ```
+
 *Knitting Quines*
+
 A. Zhu, A. Schulz, Z. Tatlock 
+
 ICFP FARM 2023
-[link](amy.zhucchini.ca/assets/knittedquines.pdf "PDF")
+
+[PDF](amy.zhucchini.ca/assets/knittedquines.pdf)
 
 
