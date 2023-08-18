@@ -18,7 +18,9 @@ Pushing the boundaries of knitting to enable the design of unusual, creative, un
 [PDF]() | [Video](https://amy.zhucchini.ca/knitting-projects/assets/illusionvideo.mp4)
 
 
-[Example of a knitted quine]: assets/quine.png
+```=html
+<img width="100%" src="https://amy.zhucchini.ca/knitting-projects/assets/quine.png" alt="Example of a program in the Twine frontend and its knitted result. The program represents a simple square."/>
+```
 
 *Knitting Quines*
 
