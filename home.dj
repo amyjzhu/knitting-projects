@@ -7,7 +7,7 @@ Knitting is very cool.
 ## Work
 
 *Illusion Knitting (WIP)*
-()[PDF] | (assets/illusionvideo.mp4)[Video]
+[link]( "PDF") | [link](assets/illusionvideo.mp4 "Video")
 
 ```=html
 <img src="assets/illusionteaser.JPG" alt="Teaser image for illusion paper showing a Mona Lisa single illusion and Stanford bunny/Utah teapot double illusion"/>
@@ -15,6 +15,6 @@ Knitting is very cool.
 *Knitting Quines*
 A. Zhu, A. Schulz, Z. Tatlock 
 ICFP FARM 2023
-(amy.zhucchini.ca/assets/knittedquines.pdf)[PDF]
+[link](amy.zhucchini.ca/assets/knittedquines.pdf "PDF")
 
 
