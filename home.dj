@@ -1,5 +1,5 @@
 ``` =html
-<style
+<style>
   @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&display=swap');
 </style> 
 <link rel="stylesheet" href="style.css">
@@ -18,8 +18,9 @@ We like pushing the boundaries of knitting it to make cool things.
 [PDF]() | [Video](https://amy.zhucchini.ca/knitting-projects/assets/illusionvideo.mp4)
 
 *Knitting Quines*
-A. Zhu, A. Schulz, Z. Tatlock 
-ICFP FARM 2023
+
+A. Zhu, A. Schulz, Z. Tatlock \
+ICFP FARM 2023 \
 [PDF (Pre-print)](https://amy.zhucchini.ca/knitting-projects/assets/knittedquines.pdf)
 
 
