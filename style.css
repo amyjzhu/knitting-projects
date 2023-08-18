@@ -1,0 +1,19 @@
+html {
+  line-height: 1.4;
+  font-family: Georgia, serif;
+  font-size: 18px;
+  color: #1a1a1a;
+  background-color: #fdfdfd;
+}
+body {
+  display: flex;
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  hyphens: auto;
+  overflow-wrap: break-word;
+  text-rendering: optimizeLegibility;
+  font-kerning: normal;
+}
