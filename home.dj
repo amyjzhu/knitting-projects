@@ -2,7 +2,8 @@
 <link rel="stylesheet" href="style.css">
 ```
 
-Knitting is very cool and we like pushing the boundaries of it to make cool things.
+We like pushing the boundaries of knitting it to make cool things.
+
 ### Work
 
 *Illusion Knitting (WIP)*
@@ -11,7 +12,7 @@ Knitting is very cool and we like pushing the boundaries of it to make cool thin
 
 
 ```=html
-<img max-width="100%" src="https://amy.zhucchini.ca/knitting-projects/assets/illusionteaser.jpg" alt="Teaser image for illusion paper showing a Mona Lisa single illusion and Stanford bunny/Utah teapot double illusion"/>
+<img max-width="50%" src="https://amy.zhucchini.ca/knitting-projects/assets/illusionteaser.jpg" alt="Teaser image for illusion paper showing a Mona Lisa single illusion and Stanford bunny/Utah teapot double illusion"/>
 ```
 
 *Knitting Quines*
