@@ -4,15 +4,17 @@
 
 Knitting is very cool and we like pushing the boundaries of it to make cool things.
 
+****
+
 ## Work
 
 *Illusion Knitting (WIP)*
 
-[PDF]() | [Video](assets/illusionvideo.mp4)
+[PDF]() | [Video](amy.zhucchini.ca/assets/illusionvideo.mp4)
 
 
 ```=html
-<img src="assets/illusionteaser.JPG" alt="Teaser image for illusion paper showing a Mona Lisa single illusion and Stanford bunny/Utah teapot double illusion"/>
+<img src="amy.zhucchini.ca/assets/illusionteaser.jpg" alt="Teaser image for illusion paper showing a Mona Lisa single illusion and Stanford bunny/Utah teapot double illusion"/>
 ```
 
 *Knitting Quines*
