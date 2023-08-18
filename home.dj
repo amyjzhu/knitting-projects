@@ -9,20 +9,19 @@ Pushing the boundaries of knitting to enable the design of unusual, creative, un
 
 ### Work
 
+*Illusion Knitting (WIP)*
 
 ```=html
-<img width="100%" src="https://amy.zhucchini.ca/knitting-projects/assets/illusionteaser.jpg" alt="Teaser image for illusion paper showing a Mona Lisa single illusion and Stanford bunny/Utah teapot double illusion"/>
+<img height="50%" src="https://amy.zhucchini.ca/knitting-projects/assets/illusionteaser.jpg" alt="Teaser image for illusion paper showing a Mona Lisa single illusion and Stanford bunny/Utah teapot double illusion"/>
 ```
-*Illusion Knitting (WIP)*
 
 [PDF]() | [Video](https://amy.zhucchini.ca/knitting-projects/assets/illusionvideo.mp4)
 
+*Knitting Quines*
 
 ```=html
-<img width="100%" src="https://amy.zhucchini.ca/knitting-projects/assets/quine.png" alt="Example of a program in the Twine frontend and its knitted result. The program represents a simple square."/>
+<img height="50%" src="https://amy.zhucchini.ca/knitting-projects/assets/quine.png" alt="Example of a program in the Twine frontend and its knitted result. The program represents a simple square."/>
 ```
-
-*Knitting Quines*
 
 Amy Zhu, Adriana Schulz, Zachary Tatlock \
 ICFP FARM 2023 \
